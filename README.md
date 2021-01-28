@@ -1,4 +1,4 @@
-<h1 align="center">Genshi Impact video-game wiki bot!</h1> I created this bot just because the other one didn't work for me lol
+<h1 align="center">very outdated recommended not to use Genshi Impact video-game wiki bot!</h1> I created this bot just because the other one didn't work for me lol
 <h3 align="center">To use this bot you will need:</h3>
 <ol><li>npm install discord.js and genshin-impact-api</li>
   <li>create a discord application and add bot there</li>
